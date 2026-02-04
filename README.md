@@ -9,4 +9,7 @@ The drawings include part drawings and simple assemblies focusing on:
 - Tolerances
 - Drafting standards
 
+PDF drawings are provided for easy viewing.
+3D models and assemblies are included as zipped reference files.
+
 These are representative samples and are not related to any employer or client work.
